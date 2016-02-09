@@ -1,4 +1,4 @@
-package gittesting;
+package simple-web-app;
 
 /**
  * Hello world!
