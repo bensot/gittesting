@@ -1,4 +1,4 @@
-package simple-web-app;
+package gittesting;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
